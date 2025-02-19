@@ -1,1 +1,23 @@
-vbbbbbbbbbbbbbbb
+{
+  "assertionMethod": [
+    "did:web:famuda1234.github.io:username:did#key-0"
+  ],
+  "service": [],
+  "id": "did:web:famuda1234.github.io:username:did",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkgNhs6SGhVdEEvKxuBTGMp47EAMewk42UJgcScCaYVZ8Y",
+      "controller": "did:web:famuda1234.github.io:username:did",
+      "id": "did:web:famuda1234.github.io:username:did#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:famuda1234.github.io:username:did#key-0"
+  ]
+}
